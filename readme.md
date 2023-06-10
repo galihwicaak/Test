@@ -14,15 +14,19 @@ _Read this before use it_
 <h1>This is markdown HTML</h1>
 ```
 
-### STOCKLIST 
+### WORK FLOW  
 
-1. sate 
-2. lontong
-3. soto
+1. git init ( on your folders )
+2. gti status 
+3. git add . 
+4. git commit -m "(add some title for information)"
+5. git push origin master 
 
-- kopi 
-- kentang 
-- sosis 
+#### BEST FOR YOUR CLASSES 
+
+- ice coffee mooja ( HOUSE OF MOOJA ) 
+- snacks ( MICIN IS RECOMENDED SNACKS )
+- rokok ( don't forget to off your webcam )
 
 
 
